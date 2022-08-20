@@ -1,3 +1,6 @@
-a:active, a:after {
+a:active {
+    font-weight: bold;
+}
+.home, .contact, .about, .offer {
     font-weight: bold;
 }
